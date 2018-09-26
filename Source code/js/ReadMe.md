@@ -7,6 +7,6 @@ I experienced the SQL injection attack, web server cache user complaints, mobile
 I do believe that the secret is how fast I can fix the issue, and how strong I can pinpoint the issue and be able to clean up with less code, and also good hard working attitude and self-confidence. 
 
 **Fix mobile version image slide show**<br>
-[Fit for mobile version](https://github.com/jianminchen/AdvancedWebArchitectureChallenge/blob/master/Source%20code/js/customizedZoomOut.js)<br>
+[Fit for mobile version](https://github.com/jianminchen/website-development-and-frontend-technologies/blob/master/Source%20code/js/customizedZoomOut.js)<br>
 
 
