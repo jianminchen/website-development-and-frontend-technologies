@@ -20,4 +20,10 @@ From 2015 to 2018, I worked as a software programmer and also designed, develope
 Case study 1: 
 One of requests is to make the website more responsive. When a user moves mouse over the product listed on the website, the user does not know what is difference between those 7 products. In 2016, I decided to add hoverover response, display the lumens for each products. 
 
-I started to learn MVC, Restful API, web service, Angular JS and other web technologies by myself from 2016 through pluarsight.com. It is much easy and quick for me to understand the new technologies I like, and I can quickly apply to the company website. 
+I started to learn MVC, Restful API, web service, Angular JS and other web technologies by myself from 2013, and through pluarsight.com from 2016. I spent a lot of time to learn the technologies using pluralsight.com.  
+
+**A few examples**<br>
+
+[Contact page](https://github.com/jianminchen/website-development-frontend/tree/master/Source%20code/Contact)<br>
+[Project page](https://github.com/jianminchen/website-development-frontend/tree/master/Source%20code/projects)<br>
+[JavaScript code](https://github.com/jianminchen/website-development-frontend/tree/master/Source%20code/js)<br>
