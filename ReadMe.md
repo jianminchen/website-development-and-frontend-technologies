@@ -20,7 +20,7 @@ From 2012 to 2018, I worked as a software programmer and also designed, develope
 Case study 1: 
 One of requests is to make the website more responsive. When a user moves mouse over the product listed on the website, the user does not know what is difference between those 7 products. In 2016, I decided to add hoverover response, display the lumens for each products. 
 
-I started to learn MVC, Restful API, web service, Angular JS and other web technologies by myself from 2013, and through pluarsight.com from 2016. I spent a lot of time to learn the technologies using pluralsight.com.  I continued to spend time to make code more readable and also easy to maintain, I did not have time to rewrite the code using those new technologies I learned. 
+I started to learn MVC, Restful API, web service, Angular JS and other web technologies by myself from 2013, and through pluarsight.com from 2016. I spent a lot of time to learn the technologies using pluralsight.com.  I continued to spend time to make code more readable and also easy to maintain, I did not have time to rewrite the code using those new technologies I learned to my current work. 
 
 **A few examples**<br>
 
