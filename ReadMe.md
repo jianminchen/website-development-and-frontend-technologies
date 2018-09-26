@@ -1,5 +1,5 @@
 
-It is the first time I like to write how I meet the daily chanllenge at the work as a frontend developer and also a full stack developer from January, 2010 to Sept. 2018. 
+I like to put together some web links and source code to help me answer some of questions, related to web frontend technologies I used, CSS, html, JavaScript, Jquery. I did not have chance to apply Angular.JS and other framework into the work, even though I studied and tried a few times over months, and also took some courses to study them.
 
 From January 2015, I started to work on Leetcode algorithms and also started to learn various web technologies through pluralsight.com courses. 
 
