@@ -1,5 +1,5 @@
 
-It is the first time I like to write how I meet the daily chanllenge at the work as a frontend developer and also a full stack developer from January, 2015 to Sept. 2018. 
+It is the first time I like to write how I meet the daily chanllenge at the work as a frontend developer and also a full stack developer from January, 2010 to Sept. 2018. 
 
 From January 2015, I started to work on Leetcode algorithms and also started to learn various web technologies through pluralsight.com courses. 
 
