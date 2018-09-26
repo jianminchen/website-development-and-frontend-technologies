@@ -1,0 +1,107 @@
+﻿body {
+}
+
+/* Julia Chen - work on the style of Contacts page*/
+#factory_MP {
+    margin-bottom:20px; 
+    padding-top:-10px;
+}
+
+#factoryArea {
+    padding-top:    0px; 
+    padding-bottom: 20px;
+    margin-top:     -20px;
+}
+
+#factory_ExtraSpace {
+    margin-bottom: 20px; 
+    padding-top:  -10px; 
+    margin-left:   116px;
+}
+
+#ID_MPFactory_001 {
+    padding-right:20px;
+}
+
+#sales_support {
+    width:1008px;
+}
+
+#ID_Contacts_Support {
+    margin-bottom:20px; 
+    padding-top:-10px;
+}
+
+#ID_Contact_Sales {
+    margin-bottom:20px; 
+    padding-top:-10px;
+}
+
+#CanadaProvinces {
+    margin-top:10px;
+}
+
+#NorthAmerica3Tabs {
+    padding-top:0px; 
+    padding-bottom:20px;
+    margin-top:-20px;
+}
+
+#NorthAmericaDiv1 {
+    margin-bottom:20px; 
+    padding-top:-10px;
+}
+
+#NorthAmericaDiv2 {
+    margin-bottom:20px; 
+    padding-top:-10px; 
+    margin-left:116px;
+}
+
+#NorthAmericaDiv3 {
+    font-weight:bold;
+}
+
+#InternationalDiv1 {
+    padding-top:0px; 
+    padding-bottom:20px; 
+    margin-top:-20px;
+}
+
+#InternationalDiv2, #InternationalDistributorTitle{
+    margin-bottom:20px; 
+    padding-top:-10px;
+}
+
+#InternationalDiv3 {
+    margin-bottom:20px; 
+    padding-top:-10px; 
+    margin-left:116px;
+}
+
+#InternationalDiv4, #InternationalDistributorItems {
+    font-weight:bold;
+}
+
+#InternationalDistributorItems {
+    width:830px; 
+    float:left;
+}
+
+/* work on alignment of text, add extra space - August 27, 2018*/
+#ID_InternationalReps li:nth-last-child(3) span {
+    display:block;
+    padding-top: 10px;     
+}
+
+#ID_InternationalReps li:nth-last-child(2) span {
+    display:block;
+    padding-top: 10px;   
+    margin-left: 45px;  
+}
+
+#ID_InternationalReps li:nth-last-child(1) span {
+    display:block;
+    padding-top: 10px;
+    margin-left: 19px;
+}

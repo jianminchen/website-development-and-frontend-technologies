@@ -1,0 +1,111 @@
+﻿{
+   "projects": [
+   {
+                "category": "house", 
+				"project": "The House",
+				"uniqueID":"No1 L145 House",				 
+				"Fixture": "<div class="grid_2 product_inl"><a href="../ProductsOverview.aspx?MainMenu=Interior&SubMenu=RecessedDownlight&ProductName=L145" target="_blank">L145</a></div>"
+				 
+    },
+	 {
+                "category": "house", 
+				"project": "The House",
+				"uniqueID":"No 2 L146 House",				
+				"Fixture": "<div class="grid_2 product_inl"><a href="../ProductsOverview.aspx?MainMenu=Interior&SubMenu=RecessedDownlight&ProductName=L146" target="_blank">L146</a></div>"
+				 
+    },		   
+   {
+                "category": "house", 
+                "project": "The House",
+				"uniqueID":"L182 House",
+                 
+                "Fixture": "<div class="grid_2 product_inl"><a href="../ProductsOverview.aspx?MainMenu=Interior&SubMenu=WineRack&ProductName=L182" target="_blank">L182</a></div>"
+     },
+	 {
+                "category": "house", 
+                "project": "The House",
+				"uniqueID":"No 3 L221 house",
+                
+                "Fixture": "<div class="grid_2 product_inl"><a href="../ProductsOverview.aspx?MainMenu=Systems&SubMenu=SingleRail&ProductName=L221" target="_blank">L221</a></div>"
+     },
+	  {
+                "category": "house", 
+                "project": "The House",
+				"uniqueID":"No 4 L09 House",
+                 
+                "Fixture": "<div class="grid_2 product_inl"><a href="../ProductsOverview.aspx?MainMenu=Interior&SubMenu=Ingrade&ProductName=L09" target="_blank">L09</a></div>" 
+     },
+     {
+                "category": "house", 
+                "project": "L11 House",
+				"uniqueID":"No 5 Elma Bay House",
+                 
+                "Fixture": "<div class="grid_2 product_inl"><a href="../ProductsOverview.aspx?MainMenu=Interior&SubMenu=WallMount&ProductName=L11" target="_blank">L11</a></div>"
+   },
+    {
+                "category": "house", 
+                "project": "The House",
+				"uniqueID":"No 6 L73 House",
+                 
+                "Fixture": "<div class="grid_2 product_inl"><a href="../ProductsOverview.aspx?MainMenu=Interior&SubMenu=Spotlight&ProductName=L73" target="_blank">L73</a></div>"
+   },
+   {
+                "category": "house", 
+                "project": "The House",
+				"uniqueID":"No 6 L141 House",
+                 
+                "Fixture": "<div class="grid_2 product_inl"><a href="../ProductsOverview.aspx?MainMenu=Interior&SubMenu=RecessedDownlight&ProductName=L141" target="_blank">L141</a></div><div class="grid_2 product_inl"><a href="../ProductsOverview.aspx?MainMenu=Interior&SubMenu=Spotlight&ProductName=L200" target="_blank">L200</a></div>"
+   },
+   {
+                "category": "house", 
+                "project": "The House",
+				"uniqueID":"No 6 L130 House",
+                 
+                "Fixture": "<div class="grid_2 product_inl"><a href="../ProductsOverview.aspx?MainMenu=Interior&SubMenu=SurfaceMountDownlight&ProductName=L130" target="_blank">L130</a></div>"
+   },
+   {
+                "category": "house", 
+                "project": "The House",
+				"uniqueID":"No 6 L191 House",
+                 
+                "Fixture": "<div class="grid_2 product_inl"><a href="../ProductsOverview.aspx?MainMenu=Interior&SubMenu=Pendant&ProductName=L191" target="_blank">L191</a></div><div class="grid_2 product_inl"><a href="../ProductsOverview.aspx?MainMenu=Interior&SubMenu=WallMount&ProductName=L11" target="_blank">L11</a></div>"
+   },
+   {
+                "category": "house", 
+                "project": "The House",
+				"uniqueID":"No 6 G03 House",
+                 
+                "Fixture": "<div class="grid_2 product_inl"><a href="../ProductsOverview.aspx?MainMenu=Interior&SubMenu=Pendant&ProductName=G03" target="_blank">G03</a></div><div class="grid_2 product_inl"><a href="../ProductsOverview.aspx?MainMenu=Interior&SubMenu=Cabinet&ProductName=L107" target="_blank">L107</a></div><div class="grid_2 product_inl"><a href="../ProductsOverview.aspx?MainMenu=Interior&SubMenu=RecessedDownlight&ProductName=L141" target="_blank">L141</a></div>"
+   },
+   {
+                "category": "house", 
+                "project": "The House",
+				"uniqueID":"No 6 L65 House",
+                 
+                "Fixture": "<div class="grid_2 product_inl"><a href="../ProductsOverview.aspx?MainMenu=Interior&SubMenu=Cabinet&ProductName=L65" target="_blank">L65</a></div>"
+   },
+   {
+                "category": "house", 
+                "project": "The House",
+				"uniqueID":"No 6 L65 House",
+                 
+                "Fixture": "<div class="grid_2 product_inl"><a href="../ProductsOverview.aspx?MainMenu=Interior&SubMenu=Cabinet&ProductName=L65" target="_blank">L65</a></div>"
+   },
+   {
+                "category": "house", 
+                "project": "The House",
+				"uniqueID":"No 6 L65 House",
+                 
+                "Fixture": "<div class="grid_2 product_inl"><a href="../ProductsOverview.aspx?MainMenu=Interior&SubMenu=Cabinet&ProductName=L65" target="_blank">L65</a></div>"
+   },
+    {
+                "category": "house", 
+                "project": "The House",
+				"uniqueID":"No 6 L65 House",
+                 
+                "Fixture": "<div class="grid_2 product_inl"><a href="../ProductsOverview.aspx?MainMenu=Interior&SubMenu=Cabinet&ProductName=L65" target="_blank">L65</a></div>"
+   }
+   ]
+}
+
+

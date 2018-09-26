@@ -1,0 +1,240 @@
+﻿{
+   "projects": [ 
+   {
+                "category": "commercial", 
+				"project": "Pistachio at Bridges Restaurant",
+				"uniqueID": "Pistachio Restaurant October 26 2017",
+				"location": "Vancouver, British Columbia",
+				"Fixture": 
+"<div class='grid_2 product_inl'><a href='../ProductsOverview.aspx?MainMenu=Interior&SubMenu=Pendant&ProductName=L195' target='_blank'>L195</a></div><div class='grid_2 product_inl'><a href='../ProductsOverview.aspx?MainMenu=Interior&SubMenu=SurfaceMountDownlight&ProductName=L600' target='_blank'>L600</a></div><div class='grid_2 product_inl'><a href='../ProductsOverview.aspx?MainMenu=Interior&SubMenu=Spotlight&ProductName=L225S' target='_blank'>L225S</a></div>",
+				"Code":"",
+				"Credit":"", 
+				"Comment":" added on October 26, 2017 - by Julia chen"
+    },
+   {
+                "category": "commercial", 
+				"project": "L182 application photo",
+				"uniqueID":"L182 application photo October 23 2017",
+				"location": "Vancouver, British Columbia",
+				"Fixture": "<div class='grid_2 product_inl'><a href='../ProductsOverview.aspx?MainMenu=Interior&SubMenu=WineRack&ProductName=L182' target='_blank'>L182</a></div>",
+				"Code":"",
+				"Credit":"", 
+				"Comment":" added on October 23, 2017 - by Julia chen"
+    },  
+   {
+                "category": "commercial", 
+				"project": "L109 application photo",
+				"uniqueID":"L109 application photo March162017",
+				"location": "",
+				"Fixture": "<div class='grid_2 product_inl'><a href='../ProductsOverview.aspx?MainMenu=Interior&SubMenu=Cabinet&ProductName=L109' target='_blank'>L109</a></div>",
+				"Code":"",
+				"Credit":"", 
+				"Comment":" added on March 10, 2017 - by Julia chen"
+    },  
+   {
+                "category": "commercial", 
+				"project": "St. John's Convention Center",
+				"uniqueID":"L196 St. John Convention Center",
+				"location": "St. John's, Newfoundland and Labrador",
+				"Fixture": "<div class='grid_2 product_inl'><a href='../ProductsOverview.aspx?MainMenu=Interior&SubMenu=Pendant&ProductName=L196-L191' target='_blank'>L196-L191</a></div>",
+				"Code":"",
+				"Credit":"", 
+				"Comment":" added on March 10, 2017 - by Julia chen"
+    }, 
+   {
+                "category": "commercial", 
+				"project": "Audain Art Meseum",
+				"uniqueID":"L05 Audain Art Meseum",
+				"location": "Whistler, British Columbia",
+				"Fixture": "<div class='grid_2 product_inl'><a href='../ProductsOverview.aspx?MainMenu=Interior&SubMenu=Ingrade&ProductName=L05' target='_blank'>L05</a></div>",
+				"Code":"",
+				"Credit":"", 
+				"Comment":" added on December 8, 2016 - by Julia chen"
+    }, 
+   {
+                "category": "commercial", 
+				"project": "Geist Bridge",
+				"uniqueID":"L47 Geist Bridge Indiana 05272016",
+				"location": "Indianapolis, Indiana",
+				"Fixture": "<div class='grid_2 product_inl'><a href='../ProductsOverview.aspx?MainMenu=Exterior&SubMenu=WallMount&ProductName=L47' target='_blank'>L47</a></div>",
+				"Code":"",
+				"Credit":"", 
+				"Comment":" added on May 27, 2016 - by Julia chen"
+    }, 
+   {
+                "category": "commercial", 
+				"project": "Barneys New York",
+				"uniqueID":"L300 Barneys New York04202016",
+				"location": "101 West 7th Avenue New York, NY",
+				"Fixture": "<div class='grid_2 product_inl'><a href='../ProductsOverview.aspx?MainMenu=Interior&SubMenu=Ingrade&ProductName=L300' target='_blank'>L300</a></div>",
+				"Code":"",
+				"Credit":"", 
+				"Comment":" added on April 20, 2016 - by Julia chen"
+    },
+	 {
+                "category": "commercial", 
+				"project": "Sonoma Recording Studio",
+				"uniqueID":"L05 Sonoma Recording Studio",
+				"location": "Sonoma County, California",
+				"Fixture": "<div class='grid_2 product_inl'><a href='../ProductsOverview.aspx?MainMenu=Interior&SubMenu=Ingrade&ProductName=L05' target='_blank'>L05</a></div>",
+				"Code":"",
+				"Credit":"", 
+				"Comment":" added on March 28, 2016 - by Julia chen"
+    },
+	 {
+                "category": "commercial",  
+				"project": "Vancouver School",
+				"uniqueID":"L98 Vancouver School",
+				"location": "Vancouver, BC, Canada",
+				"Fixture": "<div class='grid_2 product_inl'><a href='../ProductsOverview.aspx?MainMenu=Interior&SubMenu=WallMount&ProductName=L98' target='_blank'>L98</a></div>",
+				"Code":"",
+				"Credit":""
+    },
+	{
+                "category": "commercial", 
+				"project": "Hotel Entrance",
+				"uniqueID":"L03 Vancouver Hotel",
+				"location": "Vancouver, BC, Canada",
+				"Fixture": "<div class='grid_2 product_inl'><a href='../ProductsOverview.aspx?MainMenu=Interior&SubMenu=Ingrade&ProductName=L03' target='_blank'>L03</a></div>",
+				"Code":"",
+				"Credit":""
+    },
+	{
+                "category": "commercial", 
+				"project": "Hotel Entrance",
+				"uniqueID":"L01 Vancouver Hotel",
+				"location": "Vancouver, BC, Canada",
+				"Fixture": "<div class='grid_2 product_inl'><a href='../ProductsOverview.aspx?MainMenu=Interior&SubMenu=Ingrade&ProductName=L01' target='_blank'>L01</a></div>",
+				"Code":"",
+				"Credit":""
+    },
+    {
+                "category": "commercial", 
+				"project": "Princeton University",
+				"uniqueID":"Princeton University",
+				"location": "New Jersey, United States",
+				"Fixture": "<div class='grid_2 product_inl'><a href='../ProductsOverview.aspx?MainMenu=Interior&SubMenu=Ingrade&ProductName=L02' target='_blank'>L02</a></div>",
+				"Code":"",
+				"Credit":"Photographer: Duccio Malagamba <BR> Image source: Poltrona Frau"
+    },
+   {
+                "category": "commercial", 
+				"project": "NY Palace Hotel",
+				"uniqueID":"NY Palace Hotel",
+				"location": "New York city, United States",
+				"Fixture": "<div class='grid_2 product_inl'><a href='../ProductsOverview.aspx?MainMenu=Interior&SubMenu=Ingrade&ProductName=L01' target='_blank'>L01</a></div>",
+				"Code":"",
+				"Credit":""
+    },
+   {
+                "category": "commercial", 
+				"project": "Craft Beer Market",
+				"uniqueID":"Craft Beer Market",
+				"location": "Vancouver, BC, Canada",
+				"Fixture": "<div class='grid_2 product_inl'><a href='../ProductsOverview.aspx?MainMenu=Interior&SubMenu=WallMount&ProductName=L02' target='_blank'>L02</a></div><div class='grid_2 product_inl'><a href='../ProductsOverview.aspx?MainMenu=Interior&SubMenu=RecessedDownlight&ProductName=L401' target='_blank'>L401</a></div><div class='grid_2 product_inl'><a href='../ProductsOverview.aspx?MainMenu=Interior&SubMenu=Spotlight&ProductName=L222' target='_blank'>L222</a></div>",
+				"Code":"<div class='grid_2 product_inl'>L02-1W20HNC30D-BA</div><div class='grid_2 product_inl'>L401-ICDW20S45BR1-B</div><div class='grid_2 product_inl'>L222DC-W20SN2NA-MA</div>",
+				"Credit":""
+    },
+    {
+                "category": "commercial", 
+				"project": "Intact Insurance - Reception",
+				"uniqueID":"Intact Insurance - Reception",
+				"location": "Vancouver, BC",
+				"Fixture": "<div class='grid_2 product_inl'><a href='../ProductsOverview.aspx?MainMenu=Systems&SubMenu=SingleRail&ProductName=P81' target='_blank'>P81 SR</a></div>",
+				"Code":"",
+				"Credit":"Counterpoint Interiors"
+    },
+    {
+                "category": "commercial", 
+				"project": "Vinoteca Caffé & Trattoria",
+				"uniqueID":"Vinoteca Caffé & Trattoria",
+				"location": "Vancouver, BC, Canada",
+				"Fixture": "<div class='grid_2 product_inl'><a href='../ProductsOverview.aspx?MainMenu=Interior&SubMenu=Spotlight&ProductName=X43' target='_blank'>X43</a></div><div class='grid_2 product_inl'><a href='../ProductsOverview.aspx?MainMenu=Interior&SubMenu=Cabinet&ProductName=L102' target='_blank'>L102</a></div><div class='grid_2 product_inl'>L181</div>",
+				"Code":"",
+				"Credit":""
+    },
+    {
+                "category": "commercial", 
+				"project": "Robson Square",
+				"uniqueID":"Robson Square",
+				"location": "Vancouver, BC, Canada",
+				"Fixture": "<div class='grid_2 product_inl'><a href='../ProductsOverview.aspx?MainMenu=Exterior&SubMenu=Ingrade&ProductName=L01' target='_blank'>L01</a></div>",
+				"Code":"",
+				"Credit":""
+    },
+    {
+                "category": "commercial", 
+                "project": "Want Passport",
+				"uniqueID":"Want Passport",
+                "location": "Billy Bishop Toronto City Airport, Toronto, ON, Canada",
+                "Fixture": "<div class='grid_2 product_inl'><a href='../ProductsOverview.aspx?MainMenu=Interior&SubMenu=Cabinet&ProductName=L52' target='_blank'>L52</a></div><div class='grid_2 product_inl'><a href='../ProductsOverview.aspx?MainMenu=Interior&SubMenu=Linear&ProductName=L161' target='_blank'>L161</a></div>",
+                "Code":"<div class='grid_2 product_inl'>L52-2-W305-BA & BN</div><div class='grid_2 product_inl'>L161-MB-30-W30S-10-BA</div>",
+                "Credit":""
+    },
+    {
+                "category": "commercial", 
+                "project": "Trattoria Restaurant",
+				"uniqueID":"Trattoria Restaurant",
+                "location": "Vancouver, BC, Canada",
+                "Fixture": "<div class='grid_2 product_inl'><a href='../ProductsOverview.aspx?MainMenu=Interior&SubMenu=Spotlight&ProductName=X42' target='_blank'>X42</a></div>",
+                "Code":"<div class='grid_2 product_inl'>X425R-NS2NA1-MC</div>",
+                "Credit":""
+    },
+    {
+                "category": "commercial", 
+                "project": "Thunder Valley Casino",
+				"uniqueID":"Thunder Valley Casino",
+                "location": "Lincoin, CA",
+                "Fixture": "<div class='grid_2 product_inl'><a href='../ProductsOverview.aspx?MainMenu=Interior&SubMenu=Ingrade&ProductName=L02' target='_blank'>L02</a></div><div class='grid_2 product_inl'><a href='../ProductsOverview.aspx?MainMenu=Interior&SubMenu=Ingrade&ProductName=L06' target='_blank'>L06</a></div><div class='grid_2 product_inl'><a href='../ProductsOverview.aspx?MainMenu=Interior&SubMenu=Cabinet&ProductName=L51' target='_blank'>L51</a></div>",
+                "Code":"<div class='grid_2 product_inl'>L02-1-W30S-12-F-0-53</div><div class='grid_2 product_inl'>L06-W275-S6</div><div class='grid_2 product_inl'>L51-1-W30H-120-BA</div>",
+                "Credit":"Steelman Partners"
+    },
+    {
+                "category": "commercial", 
+                "project": "Coast Restaurant",
+				"uniqueID":"Coast Restaurant",
+                "location": "Vancouver, BC, Canada",
+                "Fixture": "<div class='grid_2 product_inl'><a href='../ProductsOverview.aspx?MainMenu=Interior&SubMenu=Spotlight&ProductName=X31' target='_blank'>X31</a></div>",
+                "Code":"<div class='grid_2 product_inl'>X31HD-NS17NA1-MC</div><div class='grid_2 product_inl'>X31C3-BS17NA1-MC</div>",
+                "Credit":""
+   },
+   {
+                "category": "commercial", 
+                "project": "Veterans Memorial - Northeastern University",
+				"uniqueID":"Veterans Memorial - Northeastern University",
+                "location": "Boston, MA",
+                "Fixture": "<div class='grid_2 product_inl'><a href='../ProductsOverview.aspx?MainMenu=Exterior&SubMenu=Ingrade&ProductName=L01' target='_blank'>L01</a></div>",
+                "Code":"<div class='grid_2 product_inl'>L01-1W30HWF0-S0BA</div>",
+                "Credit":""
+   },
+   {
+                "category": "commercial", 
+                "project": "CDH Cancer Center",
+				"uniqueID":"CDH Cancer Center",
+                "location": "Warrenville, IL",
+                "Fixture": "<div class='grid_2 product_inl'>P32</div>",
+                "Code":"<div class='grid_2 product_inl'>P32C3-RG71-BN</div>",
+                "Credit":""
+    },
+	{
+                "category": "commercial", 
+                "project": "Knoxville High School Auditorium",
+				"uniqueID":"Knoxville High School Auditorium",
+                "location": "Knoxville, IA",
+                "Fixture": "<div class='grid_2 product_inl'>L35</div><div class='grid_2 product_inl'><a href='../ProductsOverview.aspx?MainMenu=Interior&SubMenu=Linear&ProductName=L101' target='_blank'>L101</a></div>",
+                "Code":"",
+                "Credit":"Bob Brown, KJWW Engineering"
+    },
+	{
+                "category": "commercial", 
+                "project": "Tsartlip Health Centre",
+				"uniqueID":"Tsartlip Health Centre",
+                "location": "Saanich, BC",
+                "Fixture": "<div class='grid_2 product_inl'><a href='../ProductsOverview.aspx?MainMenu=Interior&SubMenu=Linear&ProductName=L151' target='_blank'>L151</a></div>",
+                "Code":"",
+                "Credit":"McFarland Marceau Architects"
+    }        
+   ]
+}
+
+

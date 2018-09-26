@@ -1,0 +1,99 @@
+﻿{
+   "projects": [
+   {
+                "category": "residential", 
+				"project": "West Orange House",
+				"uniqueID":"West Orange House May 17 2016",
+				"location": "West Orange, New Jersey",
+				"Fixture": "<div class='grid_2 product_inl'><a href='../ProductsOverview.aspx?MainMenu=Interior&SubMenu=Pendant&ProductName=P81L' target='_blank'>P81L</a></div><div class='grid_2 product_inl'><a href='../ProductsOverview.aspx?MainMenu=Interior&SubMenu=Spotlight&ProductName=L72' target='_blank'>L72</a></div>",
+				"Code":"",
+				"Credit":"  <a href='http://www.bradjenkinsinc.com' target='_blank'>Brad Jenkins Inc.</a>",
+				"Comment":"added on May 17, 2016"
+    },
+   {
+                "category": "residential", 
+				"project": "Bernardsville House",
+				"uniqueID":"Bernardsville House April 20 2016",
+				"location": "Bernardsville, New Jersey",
+				"Fixture": "<div class='grid_8 product_inl'>Single rail system, 2C rail system, cable system</div>",
+				"Code":"",
+				"Credit":"",
+				"Comment":"added on April 20, 2016"
+    },
+    {
+                "category": "residential", 
+				"project": "North Vancouver House",
+				"uniqueID":"L107 North Vancouver House",
+				"location": "North Vancouver, BC, Canada",
+				"Fixture": "<div class='grid_3 product_inl'><a href='../ProductsOverview.aspx?MainMenu=Interior&SubMenu=Cabinet&ProductName=L107' target='_blank'>L107</a></div>",
+				"Code":"",
+				"Credit":"",
+				"Comment":"added on March 30, 2016"
+    },
+   {
+                "category": "residential", 
+				"project": "Gastown Vancouver Residence",
+				"uniqueID":"L37 Gastown Vancouver Residence",
+				"location": "Gastown, Vancouver, BC, Canada",
+				"Fixture": "<div class='grid_3 product_inl'>L37 discontinued, see <a href='../ProductsOverview.aspx?MainMenu=Interior&SubMenu=WallMount&ProductName=L740-L48' target='_blank'>L740-L48</a></div>",
+				"Code":"",
+				"Credit":""
+    },
+	 {
+                "category": "residential", 
+				"project": "Private Residence, Vancouver",
+				"uniqueID":"L97 Private Vancouver Residence",
+				"location": "Vancouver, BC, Canada",
+				"Fixture": "<div class='grid_2 product_inl'><a href='../ProductsOverview.aspx?MainMenu=Exterior&SubMenu=Bollard&ProductName=L97' target='_blank'>L97</a></div>",
+				"Code":"",
+				"Credit":""
+    },		   
+   {
+                "category": "residential", 
+                "project": "Private Residence",
+				"uniqueID":"Private Residence",
+                "location": "Vancouver, BC, Canada",
+                "Fixture": "<div class='grid_2 product_inl'><a href='../ProductsOverview.aspx?MainMenu=Interior&SubMenu=Ingrade&ProductName=L06' target='_blank'>L06</a></div><div class='grid_2 product_inl'><a href='../ProductsOverview.aspx?MainMenu=Interior&SubMenu=Ingrade&ProductName=L07' target='_blank'>L07</a></div>",
+                "Code":"",
+                "Credit":""
+     },
+	 {
+                "category": "residential", 
+                "project": "West 2nd Residence",
+				"uniqueID":"West 2nd Residence",
+                "location": "Vancouver, BC, Canada",
+                "Fixture": "<div class='grid_2 product_inl'><a href='../ProductsOverview.aspx?MainMenu=Interior&SubMenu=Ingrade&ProductName=L01' target='_blank'>L01</a></div><div class='grid_2 product_inl'><a href='../ProductsOverview.aspx?MainMenu=Interior&SubMenu=WallMount&ProductName=L37' target='_blank'>L37</a></div>",
+                "Code":"",
+                "Credit":""
+     },
+	  {
+                "category": "residential", 
+                "project": "Wave House",
+				"uniqueID":"Wave House",
+                "location": "White Rock, BC, Canada",
+                "Fixture": "<div class='grid_2 product_inl'><a href='../ProductsOverview.aspx?MainMenu=Interior&SubMenu=Ingrade&ProductName=L01' target='_blank'>L01</a></div><div class='grid_2 product_inl'><a href='../ProductsOverview.aspx?MainMenu=Interior&SubMenu=WallMount&ProductName=L22' target='_blank'>L22</a></div>",
+                "Code":"<div class='grid_3 product_inl'>L01-2-W41S-N-C-0-NB-0-S3(Indoor)</div><div class='grid_3 product_inl'>L01-2-W41S-N-C-0-P-0-S6(Outdoor)</div><div class='grid_2 product_inl'>L22-2W30SF-S3</div>",
+                "Credit":"KBC Developments"
+     },
+     {
+                "category": "residential", 
+                "project": "Elma Bay House",
+				"uniqueID":"Elma Bay House",
+                "location": "Vancouver Island, BC, Canada",
+                "Fixture": "<div class='grid_2 product_inl'>X43</div>",
+                "Code":"<div class='grid_2 product_inl'>X43CS-NS21-MC</div><div class='grid_2 product_inl'>X43SR-NS21-MC</div>",
+                "Credit":"Blue Sky Architecture"
+   },
+    {
+                "category": "residential", 
+                "project": "Downtown Penthouse",
+				"uniqueID":"Downtown Penthouse",
+                "location": "Chicago, IL",
+                "Fixture": "<div class='grid_2 product_inl'><a href='../ProductsOverview.aspx?MainMenu=Interior&SubMenu=Ingrade&ProductName=L01' target='_blank'>L01</a></div>",
+                "Code":"<div class='grid_2 product_inl'>L01-1W30SNF0-S0MA</div>",
+                "Credit":"Anne Kustner Lighting Design"
+   }
+   ]
+}
+
+
