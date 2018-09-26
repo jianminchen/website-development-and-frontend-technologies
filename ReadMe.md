@@ -24,6 +24,6 @@ I started to learn MVC, Restful API, web service, Angular JS and other web techn
 
 **A few examples**<br>
 
-[Contact page](https://github.com/jianminchen/website-development-frontend/tree/master/Source%20code/Contact)<br>
-[Project page](https://github.com/jianminchen/website-development-frontend/tree/master/Source%20code/projects)<br>
-[JavaScript code](https://github.com/jianminchen/website-development-frontend/tree/master/Source%20code/js)<br>
+[Contact page](https://github.com/jianminchen/website-development-and-frontend-technologies/tree/master/Source%20code/Contact)<br>
+[Project page](https://github.com/jianminchen/website-development-and-frontend-technologies/tree/master/Source%20code/projects)<br>
+[JavaScript code](https://github.com/jianminchen/website-development-and-frontend-technologies/tree/master/Source%20code/js)<br>
