@@ -13,7 +13,7 @@ To learn advanced web architecture, I prepared myself for an onsite interview re
 In August 2018, I wrote a case study using object-oriented programming, C#. [Here](https://github.com/jianminchen/Object-oriented-Design/tree/master/Object-Oriented%20Design%20Study%20Case) is the folder containing my exercise. I wrote the code to implement all the functions first, and then will come back to review for better design of object-oriented programming. 
 
 From May to August 2012, a web programmer designed the new front end web page using html, CSS and Javascript and JQuery. 
-From August 2012 to January 2013, I wrote ASP.NET, C#, Jquery, CSS and html code, using ASP.NET webform to implement the company website.
+From August 2012 to March 2013, I wrote ASP.NET, C#, Jquery, CSS and html code, using ASP.NET webform to implement the company website.
 
 From 2012 to 2018, I continued to work as a software programmer and also maintained the website using ASP.NET, JavaScript, Jquery, CSS and Html. 
 
